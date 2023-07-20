@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "key": "1",
+      "name": "John Brown",
+      "age": 32,
+      "telephone": "9887542165",
+      "address": "New York No. 1 Lake Park",
+      "tags": ["ReactJS", "VueJS"],
+      "status": "Shortlisted",
+      "email": "john100@gmail.com",
+      "action_status": ["First Interview"]
+    },
+    {
+      "key": "2",
+      "name": "John Green",
+      "age": 42,
+      "telephone": "9865542165",
+      "address": "London No. 1 Lake Park",
+      "tags": ["NodeJS"],
+      "status": "Shortlisted",
+      "email": "green200@gmail.com",
+      "action_status": ["Second Interview"]
+    },
+    {
+      "key": "3",
+      "name": "Joe Black",
+      "age": 32,
+      "telephone": "9887652165",
+      "address": "Sidney No. 1 Lake Park",
+      "tags": ["VueJS", "teacher"],
+      "status": "Not Shortlisted",
+      "email": "joe300@gmail.com",
+      "action_status": ["Hire"]
+    },
+    {
+      "key": "4",
+      "name": "Anjel Marie",
+      "age": 42,
+      "telephone": "9887321165",
+      "address": "Mexico No. 1 Lake Park",
+      "tags": ["VueJS", "PHP", "Laravel"],
+      "status": "Shortlisted",
+      "email": "anjel400@gmail.com",
+      "action_status": ["Hire"]
+    },
+    {
+      "key": "5",
+      "name": "Po Black",
+      "age": 22,
+      "telephone": "9986542165",
+      "address": "Manhattan No. 1 Lake Park",
+      "tags": ["VueJS", "NodeJS", "ReactJS"],
+      "status": "Not Shortlisted",
+      "email": "po500@gmail.com",
+      "action_status": ["Reject"]
+    },
+    {
+      "key": "6",
+      "name": "Sylvia White",
+      "age": 42,
+      "telephone": "9887326545",
+      "address": "Sydney No. 1 Lake Park",
+      "tags": ["VueJS", "teacher"],
+      "status": "Shortlisted",
+      "email": "sylvia600@gmail.com",
+      "action_status": ["Hire"]
+    }
+  ]
+}
